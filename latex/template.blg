@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'template.blg'
+[62] biber:340> INFO - === jeu. juil. 15, 2021, 17:48:47
+[74] Biber.pm:415> INFO - Reading 'template.bcf'
+[130] Utils.pm:395> WARN - No data sources defined!
